@@ -1,0 +1,130 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* Custom style */
+
+.row-one{
+    color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+.one{
+    display: inline-block;
+    background: rgb(231, 88, 88);
+    width: 550px;
+    height:200px;
+    margin-right: 10px;
+    padding:10px;
+}
+.two{
+    display: inline-block;
+    background: rgb(0, 192, 96);
+    width: 300px;
+    height:200px;
+    margin-right: 10px;
+    padding:10px;
+}
+
+.three{
+    display: inline-block;
+    background: rgb(137, 101, 194);
+    width: 300px;
+    height:200px;padding:30px;
+    padding:10px;
+}
+
+.four{
+    display: inline-block;
+    background: rgb(51, 218, 240);
+    width: 300px;
+    height:200px;
+    margin-right: 10px;
+    padding:10px;
+}
+
+.five{
+    display: inline-block;
+    background: rgb(0, 255, 115);
+    width: 550px;
+    height:200px;
+    margin-right: 10px;
+    padding:10px;
+}
+
+.six{
+    display: inline-block;
+    background: rgb(96, 255, 48);
+    width: 300px;
+    height:200px;
+    padding:10px;
+}
+
+.seven{
+    display: inline-block;
+    background: rgb(250, 231, 64);
+    width: 300px;
+    height:200px;
+    margin-right: 10px;
+    padding:10px;
+}
+
+.eight{
+    display: inline-block;
+    background: rgb(245, 147, 67);
+    width: 300px;
+    height:200px;
+    margin-right: 10px;
+    padding:10px;
+}
+
+.nine{
+    display: inline-block;
+    background: rgb(247, 99, 99);
+    width: 550px;
+    height:200px;
+    margin-right: 10px;
+    padding:10px;
+}
